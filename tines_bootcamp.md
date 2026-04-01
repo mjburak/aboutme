@@ -282,3 +282,10 @@ The story is complete. Time to run it end to end.
 1. Click the top action: **Get New Alerts**.
 2. Click **Run**.
 3. Watch the events flow through each action in sequence and confirm the outputs at each stage match what you expect.
+
+
+[← Back to Home](README.md)
+
+
+
+
