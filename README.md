@@ -9,3 +9,25 @@ Beyond troubleshooting, I also look for ways to work smarter. I created AI workf
 I believe clear documentation is infrastructure, not an afterthought. A well-written doc is a ticket that never gets opened.
 
 Take a look around.
+
+## Work History
+- [Axonius](axonius.md)
+- [Sumo Logic](sumo-logic.md)
+- [Genesis10 (Contract to LinkedIn)](genesis10.md)
+- [Gutensite](gutensite.md)
+- [Earlier Career](earlier-career.md)
+
+## Engineering Liaison Stories
+- [Silent Failure](silent-failure.md)
+- [Translated Customer Speak to Dev Speak](customer-speak.md)
+- [Navigated a Multi-Vendor Bug](multi-vendor-bug.md)
+
+## Writing Samples
+- [Tines Bootcamp Rewrite](tines-bootcamp.md)
+
+## Why ReadMe
+- [RTFM is not an insult](why-readme.md)
+
+## How I Work
+- [Under the Hood](under-the-hood.md)
+- [Dad Jokes](dad-jokes.md)
