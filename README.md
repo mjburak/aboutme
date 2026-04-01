@@ -23,7 +23,7 @@ Take a look around.
 - [Navigated a Multi-Vendor Bug](multi-vendor-bug.md)
 
 ## Writing Samples
-- [Tines Bootcamp Rewrite](tines-bootcamp.md)
+- [Tines Bootcamp Rewrite](tines_bootcamp.md)
 
 ## How I Work
 - [Under the Hood](under-the-hood.md)
