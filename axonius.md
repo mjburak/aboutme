@@ -13,3 +13,5 @@ I debugged SaaS integration failures, authentication errors, and data-handling i
 - Absorbed a colleague's entire queue during a medical leave, bringing a 38-ticket backlog down to 6.
 - Built Gemini AI workflows using deliberately concise prompts that outperformed more elaborate approaches for log analysis, API debugging, and Zendesk triage.
 - Authored 30 or more internal and external Knowledge Base articles. Documentation was never an afterthought.
+
+[← Back to Home](README.md)
