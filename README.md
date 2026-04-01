@@ -1,58 +1,11 @@
 # Mary Burak | Read the Friendly Manual
-> Welcome to my Application for Enterprise Support Engineer.
 
-## 📍 Quick Links
-- [Work History](#-work-history)
-- [Engineering Liaison Stories](#-engineering-liaison-stories)
-- [Writing Samples](#-writing-samples)
-- [How I Work](#-how-i-work)
+I'm a Senior Technical Support Engineer with more than a decade of experience in enterprise SaaS environments, specializing in API debugging, authentication troubleshooting, and translating between what customers say and what engineers need to hear.
 
----
+I've spent my career at the intersection of complex technical systems and the humans trying to use them. At Axonius, I managed roughly 50 active cases at a time while serving as the designated lead for multiple Fortune 500 accounts. I debugged SaaS integration failures, authentication errors, and data-handling issues across secure cloud environments, pulling logs from Grafana and Coralogix, running curl against REST APIs to isolate payload and auth problems, and reviewing adapter code on GitHub to understand which endpoints an adapter called and which fields it retrieved.
 
-## 👋 Introduction
-I'm a Senior Technical Support Engineer who specializes in enterprise SaaS, API debugging, authentication troubleshooting, and the particular art of translating between what customers say and what engineers need to hear.
+Beyond troubleshooting, I also look for ways to work smarter. I created AI workflows using deliberately simple prompts that consistently outperformed more elaborate approaches for log analysis, API debugging, and Zendesk triage. I cleared a full enterprise customer ticket backlog that had never been cleared before. I absorbed a colleague's entire queue during a medical leave, bringing a 38-ticket backlog down to 6.
 
-I have strong opinions about documentation. Not as an afterthought, but as infrastructure. A well-written doc is a ticket that never gets opened.
+I believe clear documentation is infrastructure, not an afterthought. A well-written doc is a ticket that never gets opened.
 
-**RTFM is not an insult. It's an aspiration. The manual has to be worth reading first.**
-
----
-
-## 💼 Work History
-
-### Axonius
-*Senior Technical Support Engineer*
-- Managed roughly 50 active cases at a time.
-- Served as the designated lead for multiple Fortune 500 accounts.
-- Cleared a full enterprise customer ticket backlog that had never been cleared before.
-- Built AI workflows using simple, effective prompts that outperformed more complex versions.
-
-### Sumo Logic
-[Add your description here...]
-
----
-
-## 🗣️ Engineering Liaison Stories
-
-### Silent Failure
-[Paste your "Silent Failure" story here...]
-
-### Translated Customer Speak to Dev Speak
-[Paste your story here...]
-
----
-
-## ✍️ Writing Samples
-
-### Tines Bootcamp Rewrite
-[Link to or paste your writing sample here...]
-
----
-
-## ⚙️ How I Work
-
-### Under the Hood
-[Paste details here...]
-
-### Dad Jokes
-> Why did the developer go broke? Because he used up all his cache.
+Take a look around.
