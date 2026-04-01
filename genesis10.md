@@ -10,3 +10,5 @@ My initial role was triaging mis-routed Jira tickets to the correct engineering 
 - Developed Python scripts to extract Jira data, cutting reporting time from 60 minutes to 2.
 - Redesigned the internal Supportal triage tool using HTML5, Java, and YAML/JSON, reducing mis-triage by 6%.
 - Updated onboarding guides and troubleshooting wikis, shortening new-hire ramp-up time.
+
+[← Back to Home](README.md)
