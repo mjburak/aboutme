@@ -9,3 +9,5 @@ I provided front-line technical support for customer websites, troubleshooting H
 
 - Achieved a 30% higher resolution rate than peers.
 - Created Knowledge Base docs and Zendesk reports that improved team workflows.
+
+[← Back to Home](README.md)
