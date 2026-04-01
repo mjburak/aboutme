@@ -42,4 +42,36 @@ Have you heard of that new band “1023 Megabytes”? They’re pretty good, but
 
 I just got fired from my job at the keyboard factory… They told me I wasn’t putting in enough shifts.
 
-# Groaners
+## Groaners
+My boss asked me why I only get sick on workdays. I said it must be my weekend immune system.
+
+Today at the bank, an old lady asked me to check her balance… So I pushed her over.
+
+What is the difference between Iron Man and Aluminum Man? Iron Man stops the criminals but Aluminum Man just foils their plans
+
+Time flies like an arrow. Fruit flies like bananas.
+
+RIP Boiling water, you will be mist.
+
+The wedding was so beautiful, even the cake was in tiers.
+
+How do you make a pirate angry? Steal their “p”.
+
+Why don't they serve alcohol at a math party? You can't drink and derive.
+
+How do you comfort an English teacher? There, Their, They're
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
