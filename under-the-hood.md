@@ -15,3 +15,5 @@ I've authored more than 30 internal and external Knowledge Base articles. I don'
 ### Collaboration
 
 I've spent my career at the boundary between customers and engineering, translating in both directions. Customers don't speak engineer. Engineers don't always speak customer. That translation layer is where I live, and I'm good at it.
+
+[← Back to Home](README.md)
