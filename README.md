@@ -25,9 +25,8 @@ Take a look around.
 ## Writing Samples
 - [Tines Bootcamp Rewrite](tines-bootcamp.md)
 
-## Why ReadMe
-- [RTFM is not an insult](why-readme.md)
-
 ## How I Work
 - [Under the Hood](under-the-hood.md)
+
+## Fun
 - [Dad Jokes](dad-jokes.md)
