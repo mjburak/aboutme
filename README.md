@@ -27,6 +27,7 @@ Take a look around.
 
 ## How I Work
 - [Under the Hood](under-the-hood.md)
+- [Support Assessment: See How I Work](readme-assessment.md)
 
 ## Fun
 - [Dad Jokes](dad-jokes.md)
