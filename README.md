@@ -10,6 +10,8 @@ I believe clear documentation is infrastructure, not an afterthought. A well-wri
 
 Take a look around.
 
+I debug complex systems by day and tell terrible jokes by night. (Why do programmers prefer dark mode? Because light attracts bugs.)
+
 ## Work History
 - [Axonius](axonius.md)
 - [Sumo Logic](sumo-logic.md)
