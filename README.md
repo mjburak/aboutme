@@ -19,6 +19,9 @@ I debug complex systems by day and tell terrible jokes by night. (Why do program
 - [Gutensite](gutensite.md)
 - [Earlier Career](earlier-career.md)
 
+## Technical Assessments
+- [DNS Query Flows and Failures](cisco-q4-dns.md)
+
 ## Engineering Liaison Stories
 - [Silent Failure](silent-failure.md)
 - [Translated Customer Speak to Dev Speak](customer-speak.md)
