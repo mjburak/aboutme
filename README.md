@@ -8,9 +8,9 @@ Beyond troubleshooting, I also look for ways to work smarter. I created AI workf
 
 I believe clear documentation is infrastructure, not an afterthought. A well-written doc is a ticket that never gets opened.
 
-Take a look around.
-
 I debug complex systems by day and tell terrible jokes by night. (Why do programmers prefer dark mode? Because light attracts bugs.)
+
+Take a look around.
 
 ## Work History
 - [Axonius](axonius.md)
