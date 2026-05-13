@@ -26,6 +26,7 @@ I debug complex systems by day and tell terrible jokes by night. (Why do program
 
 ## Writing Samples
 - [Tines Bootcamp Rewrite](tines_bootcamp.md)
+- [Assembling a Reinforced Wood Cube](ood-cube-assembly.md)
 
 ## How I Work
 - [Under the Hood](under-the-hood.md)
