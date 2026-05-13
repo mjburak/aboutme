@@ -21,6 +21,7 @@ Take a look around.
 
 ## Technical Assessments
 - [Support Assessment: See How I Work](readme-assessment.md)
+- [ReadMe Support Take Home](readme-takehome.md)
 - [DNS Query Flows and Failures](cisco-q4-dns.md)
 
 ## Engineering Liaison Stories
