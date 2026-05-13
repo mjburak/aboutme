@@ -20,6 +20,7 @@ Take a look around.
 - [Earlier Career](earlier-career.md)
 
 ## Technical Assessments
+- [Support Assessment: See How I Work](readme-assessment.md)
 - [DNS Query Flows and Failures](cisco-q4-dns.md)
 
 ## Engineering Liaison Stories
@@ -33,7 +34,6 @@ Take a look around.
 
 ## How I Work
 - [Under the Hood](under-the-hood.md)
-- [Support Assessment: See How I Work](readme-assessment.md)
 
 ## Fun
 - [Dad Jokes](dad-jokes.md)
