@@ -32,6 +32,10 @@ Take a look around.
 - [Tines Bootcamp Rewrite](tines_bootcamp.md)
 - [Assembling a Reinforced Wood Cube](wood-cube-assembly.md)
 
+## AI & Automation
+
+* [AI Workflows at Axonius](ai-workflows.md)
+
 ## How I Work
 - [Under the Hood](under-the-hood.md)
 
