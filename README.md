@@ -28,9 +28,6 @@ Take a look around.
 - [Translated Customer Speak to Dev Speak](customer-speak.md)
 - [Navigated a Multi-Vendor Bug](multi-vendor-bug.md)
 
-## Product Sense & Impact
-- [Surfacing Location Granularity on LinkedIn](granularity.md)
-
 ## Writing Samples
 - [Tines Bootcamp Rewrite](tines_bootcamp.md)
 - [Assembling a Reinforced Wood Cube](wood-cube-assembly.md)
