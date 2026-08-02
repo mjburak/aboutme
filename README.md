@@ -38,6 +38,7 @@ Take a look around.
 
 ## How I Work
 - [Under the Hood](under-the-hood.md)
+- [Triaging Tickets](triage.md)
 
 ## Fun
 - [Dad Jokes](dad-jokes.md)
