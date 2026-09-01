@@ -37,6 +37,7 @@ Take a look around.
 * [AI Workflows at Axonius](ai-workflows.md)
 
 ## How I Work
+- [The Job I Automated Myself Out Of](ebay-server-triage.md)
 - [Under the Hood](under-the-hood.md)
 - [Triaging Tickets](triage.md)
 
