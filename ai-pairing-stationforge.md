@@ -1,4 +1,4 @@
-# Case Study: Pairing with AI on a Real Data Migration Problem
+# Pairing with AI on a Real Data Migration Problem
 
 **What it actually looks like to build something real with AI, including the parts that didn't work.**
 
