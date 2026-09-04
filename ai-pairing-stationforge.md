@@ -57,7 +57,7 @@ We looked for a native bulk-upload option on Etsy and came up empty, it turns ou
 - **6,691** images
 - Two correctly formatted import files, ready for pricing, built from what would have otherwise been weeks of manual copy-paste
 
-My friend handled the final uploads himself. What was originally agreed at $15/hour turned into more, once he saw five hours of work replace what would have been a month of tedious manual entry on his end.
+My friend will handle the final uploads himself. What was originally agreed at $15/hour turned into more, once he saw five hours of work replace what would have been a month of tedious manual entry on his end.
 
 ## The actual takeaway
 
