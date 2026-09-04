@@ -35,6 +35,7 @@ Take a look around.
 ## AI & Automation
 
 * [AI Workflows at Axonius](ai-workflows.md)
+* [Pairing with AI on a Real Data Migration Problem][ai-pairing-stationforge.md]
 
 ## How I Work
 - [The Job I Automated Myself Out Of](ebay-server-triage.md)
