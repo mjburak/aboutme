@@ -46,10 +46,6 @@ Each time something failed, Claude proposed a specific, testable hypothesis. I'd
 
 Etsy and Shopify don't share a CSV schema, so this needed two separate outputs. Shopify publishes extensive documentation on its import format, so Claude built a merge script around that directly. Etsy doesn't offer a blank import template at all, only a bulk *export* of listings already in the shop. That export was enough to reverse-engineer Etsy's real column structure and build a second conversion script targeting it.
 
-## A shortcut I almost took
-
-Shopify's bulk import won't accept a product without pricing and weight filled in. My first instinct was to drop in placeholder numbers just to get past validation, and clean it up properly later. It was pointed out that editing a spreadsheet column is trivial, editing hundreds of already-live product listings through Shopify's UI later is not. I left both fields blank instead.
-
 ## Where automation should stop
 
 We looked for a native bulk-upload option on Etsy and came up empty, it turns out one doesn't exist for creating new listings, only third-party tools do that. Rather than force a workaround, we mapped out the real options together, and I passed my friend a clear recommendation, including a specific warning: only use a third-party tool that connects via Etsy's actual OAuth login, never one asking for his Etsy password directly.
