@@ -27,7 +27,7 @@ Take a look around.
 - [Silent Failure](silent-failure.md)
 - [Translated Customer Speak to Dev Speak](customer-speak.md)
 - [Navigated a Multi-Vendor Bug](multi-vendor-bug.md)
-- [The 500 That Wasn't](red_herring.md)
+- [The 500 That Wasn't](the-500-that-wasnt.md)
 
 ## Writing Samples
 - [Tines Bootcamp Rewrite](tines_bootcamp.md)
