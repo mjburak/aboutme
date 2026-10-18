@@ -34,7 +34,5 @@ On sales calls, I asked prospects what they actually needed the site to do, then
 
 I worked with frequent callers to improve how their sites looked and read, from layout to photos. Small changes, like replacing a blurry cropped phone selfie with a real headshot, made a real difference in how their business came across.
 
-[← Back to Home](README.md)
-
 
 [← Back to Home](README.md)
