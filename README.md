@@ -39,6 +39,7 @@ Take a look around.
 * [Pairing with AI on a Real Data Migration Problem](ai-pairing-stationforge.md)
 
 ## How I Work
+- [What I Bring to a Team](https://github.com/mjburak/aboutme/blob/main/team.md)
 - [The Job I Automated Myself Out Of](ebay-server-triage.md)
 - [Under the Hood](under-the-hood.md)
 - [Triaging Tickets](triage.md)
