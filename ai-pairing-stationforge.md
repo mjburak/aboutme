@@ -4,7 +4,7 @@
 
 ## The ask
 
-A friend reached out for help with his Shopify and Etsy shops. He'd recently purchased a commercial license to sell 3D-printed items from a vendor, and needed the titles, descriptions, and images pulled from the vendor's site into his own shops. The vendor's catalog listed 557 items across 16 categories. I told him, "no problem."
+A friend reached out for help with his Shopify and Etsy shops. He'd recently purchased a commercial license to sell 3D-printed items from a vendor, and needed the titles, descriptions, and images pulled from the vendor's site into his own shops. The vendor's catalog listed 557 items across 16 categories, which came down to 369 once duplicates and freebies were removed. I told him, "no problem."
 
 ## Scoping the problem
 

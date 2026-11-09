@@ -20,13 +20,13 @@ I kept it going. Little trinkets at the major holidays. Birthday gifts given fro
 
 ### The Duck Bash
 
-At one point I flagged to our Director of Engineering that we had 60 open bugs that needed attention. He proposed a 24-hour bug bash, and I brought the prizes: rubber ducks, every one dressed differently. Firefighter, pirate, zombie, and so on.
+At one point I flagged to our Director of Engineering that we had a pile of open bugs that needed attention. He proposed a 24-hour bug bash, and I brought the prizes: rubber ducks, every one dressed differently. Firefighter, pirate, zombie, and so on.
 
 I laid all 30 ducks out on a table and let the engineers parade past to pick their favorites. When the clock officially started, they literally ran back to their desks. Every completed fix earned the duck of your choice.
 
 I ran out of ducks. They kept bashing anyway, because the clock was still ticking and they knew I'd get more.
 
-48 of the 60 bugs were squashed in a single day.
+67 bugs were squashed in a single day.
 
 ### Lunch, Not Shop
 
