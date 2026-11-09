@@ -11,15 +11,21 @@ What's The Difference Between Roast Beef And Pea Soup? Anyone Can Roast Beef!!!
 
 What Is The Difference Between a Harley And a Hoover?! The Location Of The Dirt Bag.
 
+Why do cows wear bells? Their horns don't work.
+
 
 ## Tech Industry
 Why did the developer cross the road? To git to the other side.
 
 Why did the IT guy go to therapy? He had too many unresolved issues.
 
+Why did the developer break up with GitHub? Too many commitment issues.
+
+Why don't support engineers ever get lost? They always follow the escalation path.
+
 There are 10 types of people in the world: those who understand binary, and those who don't.
 
-I would tell you a UDP joke, but I'm not sure if you'd get it.
+A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 
 It's not a bug; it's an undocumented feature.
 
@@ -57,5 +63,14 @@ How do you make a pirate angry? Steal their “p”.
 Why don't they serve alcohol at a math party? You can't drink and derive.
 
 How do you comfort an English teacher? There, Their, They're
+
+## Science & Math
+Parallel lines have a lot in common. It's a shame they'll never meet.
+
+Gold walks into a bar. The bartender says, "Au, get outta here."
+
+Protons have mass? I didn't even know they were Catholic.
+
+What do you get when you cross a mountain climber and a mosquito? Nothing; you can't cross a scaler and a vector.
 
 [← Back to Home](README.md)
