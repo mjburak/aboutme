@@ -11,7 +11,6 @@ What's The Difference Between Roast Beef And Pea Soup? Anyone Can Roast Beef!!!
 
 What Is The Difference Between a Harley And a Hoover?! The Location Of The Dirt Bag.
 
-How Are a Texas Tornado And a Tennessee Divorce The Same? Somebody's Gonna Lose A Trailer!
 
 ## Tech Industry
 Why did the developer cross the road? To git to the other side.
@@ -45,8 +44,6 @@ I just got fired from my job at the keyboard factory… They told me I wasn’t 
 ## Groaners
 My boss asked me why I only get sick on workdays. I said it must be my weekend immune system.
 
-Today at the bank, an old lady asked me to check her balance… So I pushed her over.
-
 What is the difference between Iron Man and Aluminum Man? Iron Man stops the criminals but Aluminum Man just foils their plans
 
 Time flies like an arrow. Fruit flies like bananas.
@@ -62,16 +59,3 @@ Why don't they serve alcohol at a math party? You can't drink and derive.
 How do you comfort an English teacher? There, Their, They're
 
 [← Back to Home](README.md)
-
-
-
-
-
-
-
-
-
-
-
-
-

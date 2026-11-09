@@ -5,3 +5,5 @@ This take-home support assessment is evidence of my troubleshooting methodology,
 Two tickets worked end to end: an OpenAPI YAML validation error with a misleading line number, and a bidirectional sync failure with two distinct root causes. Includes full troubleshooting notes and customer-facing responses.
 
 [Read the assessment](https://gist.github.com/mjburak/7f59f664ab93c7301a3a4de21106dd50#file-readme-takehome-md)
+
+[← Back to Home](README.md)

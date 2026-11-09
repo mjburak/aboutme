@@ -4,7 +4,7 @@ The best work I've ever done wasn't a single ticket. It was a team that wanted t
 
 ### Embedded with Engineering
 
-At Auditude, I was an Escalation Engineer embedded with the engineering team. Our TSEs in New York escalated tickets to me, I took the first real swing at them, and I escalated to engineering when a problem needed their hands.
+At Auditude, I was an Escalation Manager embedded with the engineering team. Our TSEs in New York escalated tickets to me, I took the first real swing at them, and I escalated to engineering when a problem needed their hands.
 
 I sat in their meetings and worked alongside them every day. Part of what I brought was a support engineer's instinct for troubleshooting: scoping the problem, asking what changed, reading the evidence before guessing. I taught that to the engineers, and they taught me the product from the inside. Both sides got sharper.
 

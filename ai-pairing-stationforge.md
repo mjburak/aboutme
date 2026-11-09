@@ -38,7 +38,7 @@ The skipped list all said "no gallery images found," but the actual causes varie
 - Some products used image filenames like `one.jpg` instead of `1.jpg`.
 - Some hosted images on an entirely different CDN subdomain than the rest of the catalog.
 - Some linked directly to the CDN instead of through the resize proxy the rest of the site used.
-- One approach I tried (matching everything up to a "Community Prints" section heading to avoid scraping customer photos) turned out to be unreliable, that exact phrase sometimes appeared early in the page as a stray JavaScript comment, cutting off the real product images before the regex ever saw them.
+- One approach I tried (matching everything up to a "Community Prints" section heading to avoid scraping customer photos) turned out to be unreliable: that exact phrase sometimes appeared early in the page as a stray JavaScript comment, cutting off the real product images before the regex ever saw them.
 
 Each time something failed, Claude proposed a specific, testable hypothesis. I'd paste a small diagnostic snippet into the console, report back exactly what it printed, and we'd narrow it down from there. It took over an hour of this back-and-forth to get every skipped item accounted for.
 
@@ -48,7 +48,7 @@ Etsy and Shopify don't share a CSV schema, so this needed two separate outputs. 
 
 ## Where automation should stop
 
-We looked for a native bulk-upload option on Etsy and came up empty, it turns out one doesn't exist for creating new listings, only third-party tools do that. Rather than force a workaround, we mapped out the real options together, and I passed my friend a clear recommendation, including a specific warning: only use a third-party tool that connects via Etsy's actual OAuth login, never one asking for his Etsy password directly.
+We looked for a native bulk-upload option on Etsy and came up empty. It turns out one doesn't exist for creating new listings; only third-party tools do that. Rather than force a workaround, we mapped out the real options together, and I passed my friend a clear recommendation, including a specific warning: only use a third-party tool that connects via Etsy's actual OAuth login, never one asking for his Etsy password directly.
 
 ## Result
 
@@ -57,8 +57,10 @@ We looked for a native bulk-upload option on Etsy and came up empty, it turns ou
 - **6,691** images
 - Two correctly formatted import files, ready for pricing, built from what would have otherwise been weeks of manual copy-paste
 
-My friend will handle the final uploads himself. What was originally agreed at $15/hour turned into more, once he saw five hours of work replace what would have been a month of tedious manual entry on his end.
+My friend will handle the final uploads himself. He ended up paying more than we'd originally agreed, once he saw five hours of work replace what would have been a month of tedious manual entry on his end.
 
 ## The actual takeaway
 
 The value here wasn't "AI did it for me." It was pairing with a fast, capable collaborator willing to propose a hypothesis, read the actual error output, and change course, the same iterative process good debugging always looks like, just compressed into an evening instead of days.
+
+[← Back to Home](README.md)

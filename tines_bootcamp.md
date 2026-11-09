@@ -1,5 +1,7 @@
 # Tines Bootcamp: Building Your First Automation Story
 
+*Writing sample: my rewrite of the Tines Bootcamp training for first-time builders.*
+
 Welcome to Tines! This bootcamp will introduce you to the core concepts of Tines by building a practical Alert Ingest Story.
 
 ## What You Will Build

@@ -14,7 +14,7 @@ I built a set of Gems (Gemini's saved prompt feature) to handle the high-frictio
 
 **Workflow:** Download the Zendesk ticket as a PDF, attach it to the Gem.
 
-At 50+ active cases, the hardest part of context switching isn't reading a ticket -- it's re-orienting to where things stood. This Gem eliminated that. Nine words, applied consistently across a full queue.
+At 55 to 60 active cases, the hardest part of context switching isn't reading a ticket -- it's re-orienting to where things stood. This Gem eliminated that. Nine words, applied consistently across a full queue.
 
 Before going on vacation, I used it one more way: I ran every ticket I owned through the Gem and posted the output as a comment, so anyone picking up a case would know exactly where things stood.
 

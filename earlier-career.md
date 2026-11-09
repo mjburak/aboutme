@@ -6,7 +6,7 @@ Before moving into fully remote SaaS support roles, I built my technical foundat
 Auditude was a video ad platform acquired by Adobe. I served as an Escalation Manager, acting as the liaison between Engineering and Support. I reduced escalation volume through mentorship and process improvements.
 
 ### Akamai Technologies | San Mateo | May 2013 – April 2014
-Akamai is one of the world's largest CDN providers. I provided Tier 1 support for CDN media issues, doing log analysis with zcat, grep, and awk and handling Linux networking issues.
+Akamai is one of the world's largest CDN providers. I supported premium customers in a 24/7 environment, focused on live and on-demand video streaming. I sifted customer logs averaging 4 to 6 TB per hour with zcat, grep, and awk to spot traffic trends and denial-of-service attacks, and refined a fix for degraded streams that was reliable enough to be automated.
 
 ### Populus Group / eBay | San Jose | March 2015 – March 2016
 Contracted through Populus Group to eBay, where I worked as a Linux Admin handling server monitoring, resurrection, and Bash automation.

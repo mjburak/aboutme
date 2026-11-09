@@ -1,10 +1,16 @@
-## Proactive Technical Support Engineer
+## Proactive Technical Support
 
 **Gutensite | Remote | March 2018 – January 2021**
 
 Gutensite was a CMS platform provider offering website building and hosting services to small and medium businesses, mainly real estate agents and churches. Most of our customers were not technical. Many could barely handle email, so every interaction had to make them feel safe with technology they didn't understand.
 
-I provided front-line technical support for customer websites, troubleshooting HTML, CSS, and DNS issues, and configured and customized sites using PHP, JavaScript, and AJAX. I also handled all customer communication, including pre-sales calls, which meant I was the voice of the company from a prospect's first question through every ticket after they signed.
+I provided front-line technical support for customer websites, troubleshooting HTML, CSS, and DNS issues, and configured and customized sites using PHP, JavaScript, and AJAX. I also handled all customer communication, including pre-sales calls and billing, which meant I was the voice of the company from a prospect's first question through every ticket after they signed.
+
+### Billing and plan questions
+
+With about 10 people in the whole company, Support handled every billing conversation. Most questions were about our web hosting tiers: what each one included, which one fit, and what changed when a customer moved up or down. The other big category was cost: what a customer could do with our templates at no extra charge, and where custom work started to cost money.
+
+I didn't have access to Stripe, where cards were processed, so for refunds and payment changes I gathered the account details and what the customer needed, then escalated to the engineer who served as our platform admin.
 
 ### A few things I'm proud of
 
